@@ -1,9 +1,9 @@
-*/*.a
+**/*.a
 *.sublime-*
 build/
 .tags*
 *.png
 result/
 .result
-*/*.so
+**/*.so
 */__pycache__/
